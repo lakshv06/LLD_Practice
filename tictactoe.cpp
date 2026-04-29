@@ -48,7 +48,7 @@ class IBoard{
     virtual Symbol getMove(int x, int y) = 0;
     virtual bool isBoardFilled() = 0;
     virtual void printBoard() = 0;
-     virtual int getRows() const = 0;
+    virtual int getRows() const = 0;
     virtual int getCols() const = 0;
     virtual ~IBoard() = default;
 };
