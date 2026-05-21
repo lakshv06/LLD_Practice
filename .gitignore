@@ -1,0 +1,63 @@
+.DS_Store
+Thumbs.db
+Icon\r
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+*.log
+*.orig
+
+# Build outputs
+build/
+out/
+bin/
+obj/
+
+# C/C++ artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.elf
+*.pch
+
+# Java artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# General generated files
+*.cache
+*.DS_Store
+
+# Environment files
+.env
+.env.*
+
+# Operating system files
+desktop.ini
+
+# Diagrams / design tools
+*.tmp.png
+*.bak.excalidraw
